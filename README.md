@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bruno Rodrigues. I'm live in João Pessoa-PB, Brazil.</h1>
-<h3 align="center">I'm a beginner in programming.</h3>
+<h1 align="center">Hi 👋, I'm Bruno Rodrigues. 
+<h3> I'm live in João Pessoa-PB, Brazil.</h3>
+<h3>I'm a beginner in programming.</h3>
 
 - 🌱 I’m currently learning **English, Java and Linux**
 
