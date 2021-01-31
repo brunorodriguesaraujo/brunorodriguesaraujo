@@ -1,10 +1,13 @@
-### Hi there 👋:octocat:	
+### Hi there 👋
+
+                    :octocat:	
 
 ### I'm Bruno Rodrigues. I'm live in João Pessoa-PB, Brazil.
 
 - :computer: I'm a beginner in programming.
 - 🌱Currently improving my English and Java ![](C:/Users/bruno/OneDrive/Imagens/java-logo).
 - 📫 How to reach me: 
+- [Instagram] (https://www.instagram.com/brunorodrig_es/) [Linkedin] (https://www.linkedin.com/in/bruno-rodrigues-39a8491a3/)
 <!--
 **brunorodriguesaraujo/brunorodriguesaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
