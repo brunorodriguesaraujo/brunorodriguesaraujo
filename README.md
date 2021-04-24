@@ -1,7 +1,6 @@
 <h1 align = "center"> Olá 👋, sou Bruno Rodrigues </h1>
 <h3> I'm live in João Pessoa-PB, Brazil.</h3>
 <h3>I'm a beginner in programming.</h3>
-<p align = "left"> <a href = "https://github.com/ryo-ma/github-profile-trophy "> <img src =" https://github-profile-trophy.vercel.app/?username=brunorodriguesaraujo "alt =" brunorodriguesaraujo "/> </a> </p>
 
 - 🌱 I’m currently learning **English, Java, Kotlin and Android**
 
