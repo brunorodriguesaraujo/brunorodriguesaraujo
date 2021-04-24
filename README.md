@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bruno-rodrigues-39a8491a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-rodrigues-39a8491a3/" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/brunorodrig_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="instagram.com/brunorodrig_e" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bruno-rodrigues-39a8491a3/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/bruno-rodrigues-39a8491a3/" /></a>
+<a href="https://instagram.com/instagram.com/brunorodrig_e" target="blank"><img align="center" src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram.com/brunorodrig_e" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
