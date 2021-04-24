@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bruno-rodrigues-39a8491a3/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/bruno-rodrigues-39a8491a3/" /></a>
-<a href="https://instagram.com/instagram.com/brunorodrig_e" target="blank"><img align="center" src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram.com/brunorodrig_es" /></a>
+<a href="https://instagram.com/instagram.com/brunorodrig_es" target="blank"><img align="center" src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram.com/brunorodrig_es" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
