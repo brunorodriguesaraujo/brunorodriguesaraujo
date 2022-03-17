@@ -1,6 +1,6 @@
 <h1 align = "center"> Hello 👋, I'm Bruno Rodrigues </h1>
 <h3> I'm live in João Pessoa-PB, Brazil.</h3>
-<h3>I'm a beginner in programming.</h3>
+<h3>I'm a developer Android.</h3>
 
 - 🌱 I’m currently learning **English, Java, Kotlin and Android**
 
