@@ -2,9 +2,7 @@
 <h3> I'm live in João Pessoa-PB, Brazil.</h3>
 <h3>I'm a developer Android.</h3>
 
-- 🌱 I’m currently learning **English, Kotlin and Android**
-
-- 📫 How to reach me **brunorodriguesdearaujo1@gmail.com**
+- 📫 How to reach me **brunorodrigues-78@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
